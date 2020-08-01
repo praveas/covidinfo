@@ -11,10 +11,12 @@
 .new_footer_area {
   margin-top: 1em;
   background: #fbfbfd;
+  position: relative;
+  bottom: 0em;
 }
 
 .new_footer_top {
-  padding: 120px 0px 270px;
+  padding: 10px 0px 270px;
   position: relative;
   overflow-x: hidden;
 }
