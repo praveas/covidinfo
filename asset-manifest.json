@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/covidinfo/static/css/main.8f2f6066.chunk.css",
+    "main.js": "/covidinfo/static/js/main.f4cc8f1f.chunk.js",
+    "main.js.map": "/covidinfo/static/js/main.f4cc8f1f.chunk.js.map",
+    "runtime-main.js": "/covidinfo/static/js/runtime-main.f18a8a1f.js",
+    "runtime-main.js.map": "/covidinfo/static/js/runtime-main.f18a8a1f.js.map",
+    "static/js/2.e1750a04.chunk.js": "/covidinfo/static/js/2.e1750a04.chunk.js",
+    "static/js/2.e1750a04.chunk.js.map": "/covidinfo/static/js/2.e1750a04.chunk.js.map",
+    "index.html": "/covidinfo/index.html",
+    "precache-manifest.aa58524088345ac1641c3205e0b5d4f3.js": "/covidinfo/precache-manifest.aa58524088345ac1641c3205e0b5d4f3.js",
+    "service-worker.js": "/covidinfo/service-worker.js",
+    "static/css/main.8f2f6066.chunk.css.map": "/covidinfo/static/css/main.8f2f6066.chunk.css.map",
+    "static/js/2.e1750a04.chunk.js.LICENSE.txt": "/covidinfo/static/js/2.e1750a04.chunk.js.LICENSE.txt",
+    "static/media/App.module.css": "/covidinfo/static/media/global-virus-scaled.a4b0fc75.jpg",
+    "static/media/logo.webp": "/covidinfo/static/media/logo.fd844e86.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f18a8a1f.js",
+    "static/js/2.e1750a04.chunk.js",
+    "static/css/main.8f2f6066.chunk.css",
+    "static/js/main.f4cc8f1f.chunk.js"
+  ]
+}
