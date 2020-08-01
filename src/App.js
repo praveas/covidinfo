@@ -4,7 +4,7 @@ import { Cards, CountryPicker, Chart } from "./components";
 import { fetchData } from "./api/";
 import styles from "./App.module.css";
 
-import image from "./images/logo.webp";
+import image from "./images/logo-covidinfo.png";
 import FooterPanel from "./components/footer/footer.component";
 
 class App extends React.Component {
