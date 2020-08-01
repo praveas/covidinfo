@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6467e67b6439e2406122da778ddb3150",
+    "revision": "e11ae0f3370a158785344a4959080c16",
     "url": "/covidinfo/index.html"
   },
   {
-    "revision": "df7ee7955d1de513b261",
+    "revision": "d0f242108c024a6df578",
     "url": "/covidinfo/static/css/main.8f2f6066.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/covidinfo/static/js/2.e1750a04.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "df7ee7955d1de513b261",
-    "url": "/covidinfo/static/js/main.f4cc8f1f.chunk.js"
+    "revision": "d0f242108c024a6df578",
+    "url": "/covidinfo/static/js/main.917c5c20.chunk.js"
   },
   {
     "revision": "2aeac8788e239c18fc98",
@@ -28,7 +28,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/covidinfo/static/media/global-virus-scaled.a4b0fc75.jpg"
   },
   {
-    "revision": "fd844e861be1f670725512ed68d98151",
-    "url": "/covidinfo/static/media/logo.fd844e86.webp"
+    "revision": "48b9591859432ce3cf448c1c9e4f86b4",
+    "url": "/covidinfo/static/media/logo-covidinfo.48b95918.png"
   }
 ]);
